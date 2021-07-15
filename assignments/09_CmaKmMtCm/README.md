@@ -21,7 +21,7 @@ el programa la va a ignorar al ejecutarse.
 Escribe un programa que pida una distancia en centímetros y que escriba esa distancia en su equivalente en kilómetros, metros y centímetros (escribiendo solamente las unidades necesarias).
 
 **Entrada**
-- Un número entero que representa la distancia en centímetros
+- Un número entero que representa la distancia en centímetros.
 
 **Salidas**
 - El número de km, m y cm equivalente a la cantidad de centímetros dada por el usuario.
@@ -48,7 +48,7 @@ Introduce los cm: 1200500
 12 km
 5 m
 ```
-El resultado se debe mostrar como se indica con cada valor en un renglón por separado, indicando las unidades correspondientes (km, m y cm en minúscula) y en el orden indicado. Si no hay valor para alguna de las 3 unidades, no debe mostrar dicho renglón.   
+El resultado se debe mostrar como se indica con cada valor en un renglón por separado, indicando las unidades correspondientes (km, m y cm en minúscula) y en el orden indicado. Si no hay valor para alguna de las tres unidades, no debe mostrar dicho renglón.   
 
 **Nota:** No te preocupes por esta parte del código
 `if __name__ == '__main__':` por el momento. No la vamos a necesitar para
