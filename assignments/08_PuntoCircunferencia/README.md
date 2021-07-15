@@ -1,6 +1,6 @@
 ![Tec de Monterrey](../../images/logotecmty.png)
 # Punto con respecto a la circunferencia
-Decisiones - Posición de un punto con respecto a la circunferencia
+**Decisiones - Posición de un punto con respecto a la circunferencia**
 
 Modifica el programa que se encuentra en la carpeta `src` que se llama
 `exercise.py` y que contiene el siguiente código:
@@ -54,8 +54,6 @@ Introduce y1: 0
 Introduce x2: 0
 Introduce y2: 3
 DENTRO
-
-Nota: Para mostrar la salida solamente muestra las variables en las que tienes el resultado de los cálculos, no le apliques ningún formato. 
 ```
 **Nota:** No te preocupes por esta parte del código
 `if __name__ == '__main__':` por el momento. No la vamos a necesitar para
