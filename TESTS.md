@@ -9,32 +9,115 @@
 sudo -H pip3 install pytest
 ```
 
-- ## 01-Pass_fail_Grade
+- ## 02 Licencia
     ### Run command
     ```
-    pytest assignments/01-Pass_fail_Grade
+    pytest assignments/02Licencia
     ```
 
-- ## 02-Largest_of_three
+- ## 03 Tipo Tirángulo
     ### Run command
     ```
-    pytest assignments/02-Largest_of_three
+    pytest assignments/03TipoTriangulo
     ```
 
-- ## 03-Parking_fare
+- ## 04 Máximo
     ### Run command
     ```
-    pytest assignments/03-Parking_fare
+    pytest assignments/04Maximo
     ```
 
-- ## 04-2D_quadrant
+- ## 05 Ordena
     ### Run command
     ```
-    pytest assignments/04-2D_quadrant
+    pytest assignments/05Ordena
     ```
 
-- ## 05-Next_day
+- ## 06 BMI
     ### Run command
     ```
-    pytest assignments/05-Next_day
+    pytest assignments/06BMI
+    ```
+
+- ## 07 Dia Siguiente Bisiesto
+    ### Run command
+    ```
+    pytest assignments/07BisiestoDiaSig
+    ```
+
+
+- ## 08 Punto Circunferencia
+    ### Run command
+    ```
+    pytest assignments/08PuntoCircunferencia
+    ```
+
+
+- ## 09 Cms a Kms Mts Cms
+    ### Run command
+    ```
+    pytest assignments/09CmaKmMtCm
+    ```
+
+
+- ## 10 Cuadrante
+    ### Run command
+    ```
+    pytest assignments/10Cuadrante
+    ```
+
+
+- ## 11 Cuadratica
+    ### Run command
+    ```
+    pytest assignments/11Cuadratica
+    ```
+
+
+- ## 12 Piedra Papel Tijera
+    ### Run command
+    ```
+    pytest assignments/12PiedraPapelTijera
+    ```
+
+
+- ## 13 Pass fail grade
+    ### Run command
+    ```
+    pytest assignments/13PassFailGrade
+    ```
+
+
+- ## 14 Largest of three
+    ### Run command
+    ```
+    pytest assignments/14LargestOfThree
+    ```
+
+
+- ## 15 Parking fare
+    ### Run command
+    ```
+    pytest assignments/15ParkingFare
+    ```
+
+
+- ## 16 2D quadrant
+    ### Run command
+    ```
+    pytest assignments/16Quadrant2D
+    ```
+
+
+- ## 17 Next Day
+    ### Run command
+    ```
+    pytest assignments/17NextDay
+    ```
+
+
+- ## 18 Solo Bisiesto
+    ### Run command
+    ```
+    pytest assignments/18SoloBisiesto
     ```
