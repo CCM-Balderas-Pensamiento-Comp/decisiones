@@ -1,8 +1,14 @@
 ![Tec de Monterrey](images/logotecmty.png)
 # Making decisions in a program
 
-- 01-Pass_fail_grade
-- 02-Largest_of_three
-- 03-Parking_fare
-- 04-2D_quadrant
-- 05-Next_day  (Requires the use of functions)
+- 02 Licencia
+- 03 Tipo Tirángulo
+- 04 Máximo
+- 05 Ordena
+- 06 BMI
+- 07 Dia Siguiente Bisiesto
+- 13 Pass fail grade
+- 14 Largest of three
+- 15 Parking fare
+- 16 2D quadrant
+- 17 Next day  (Requiere uso de funciones)
