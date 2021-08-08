@@ -121,3 +121,9 @@ sudo -H pip3 install pytest
     ```
     pytest assignments/18SoloBisiesto
     ```
+
+- ## 19 Identifica Signo
+    ### Run command
+    ```
+    pytest assignments/19IdentificaSigno
+    ```

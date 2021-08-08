@@ -18,3 +18,4 @@
 - 16 2D quadrant
 - 17 Next Day  (Requiere uso de funciones)
 - 18 Solo Bisiesto
+- 19 Identifica Signo
