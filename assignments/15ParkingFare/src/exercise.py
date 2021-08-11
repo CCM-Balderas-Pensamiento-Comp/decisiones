@@ -1,6 +1,5 @@
 def parking_cost(hours, minutes):
     # Write your code here
-    pass
 
 
 def main():
